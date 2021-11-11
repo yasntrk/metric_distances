@@ -1,6 +1,6 @@
 
 
-# <center> **Distance Metrics and Similarity** </center>
+# <center> **Distance Metrics and Similarity in Python ** </center>
 <hr><center>
 Yasin TÜRK</center>
 <hr>
